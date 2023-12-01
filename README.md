@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=19175F&height=125&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=89CFF0&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+GitHub+do+Valmas!;)](https:git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=89CFF0&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+GitHub+do+Valmir!;)](https:git.io/typing-svg)
 
 # 💫 About Me:
 Estudante de Engenharia de Computação na UEFS (Universidade Estadual de Feira de Santana)<br>
